@@ -1,0 +1,2 @@
+# uniapp_wallpaper
+基于vue2搭建的跨平台uniapp壁纸小程序
